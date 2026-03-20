@@ -12,6 +12,7 @@ library('plyr')
 library('agricolae')
 library('multcompView')
 library('rmarkdown')
+library('brms')
 # library('colorout')
 # setOutputColors(normal = 4, negnum = 4, zero = 4, number = 4,
                      # date = 1, string = 6, const = 5, false = 5,
